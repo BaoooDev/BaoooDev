@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Backend Developer | Scalable Systems Enthusiast</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=dracula&no-frame=true&row=1&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BaoooDev&theme=dracula&no-frame=true&row=1&column=7" alt="Trophy" />
 </p>
 
 ---
@@ -48,12 +48,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BaoooDev&show_icons=true&theme=radical" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaoooDev&theme=radical" width="49%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaoooDev&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
 
 ---
