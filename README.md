@@ -14,7 +14,7 @@
 - 📖 **Currently Learning:** System Design, Event-Driven Architecture, AWS  
 - ⚡ **Hobbies:** Coding, Problem-Solving, Blogging about Backend Technologies  
 - 🌍 **Languages:** Vietnamese (Native), English (Professional)  
-- 💼 **Open to:** Internship & Junior Backend Developer Roles  
+- 💼 **Open to:** Internship & Fresher Backend Developer Roles  
 
 ---
 
